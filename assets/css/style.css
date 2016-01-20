@@ -1,0 +1,41 @@
+body
+{
+	background-color:blue;
+	color:white;
+}
+.first_class
+{
+	height:200px;
+	width:200px;
+	background-color.red;
+}
+
+/*pour les id c'est un #*/
+#first_id
+{
+	height:200px;
+	width:200px;
+	background-color:green;
+}
+
+.presentation
+{
+	background-color:green;
+	color:brown;
+}
+
+.important:hover
+{
+	font-size:50px;
+}
+
+h3
+{
+	color:gray;
+}
+
+h3:hover
+{
+	color:orange;
+	font-size:50px;
+}
